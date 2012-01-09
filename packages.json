@@ -10,7 +10,6 @@
         "name": "rust-zmq",
         "uuid": "54cc1bc9-02b8-447c-a227-75ebc923bc29",
         "url": "https://github.com/erickt/rust-zmq",
-        "method": "git",
-        "tags": ["serialization"]
+        "method": "git"
     }
 ]
